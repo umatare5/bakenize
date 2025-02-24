@@ -35,10 +35,10 @@ curl -H "Authorization: Basic cG9zdG1hbjpwYXNzd29yZA==" https://postman-echo.com
 
 The application supports the following environment variables:
 
-| Name         | Description                |
-| ------------ | -------------------------- |
-| `B_USERNAME` | The alias of `--username`. |
-| `B_PASSWORD` | The alias of `--password`. |
+| Name         | Description               |
+| ------------ | ------------------------- |
+| `B_USERNAME` | The alias of `--username` |
+| `B_PASSWORD` | The alias of `--password` |
 
 ## Release
 

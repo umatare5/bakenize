@@ -4,7 +4,9 @@
 
 [license]: https://github.com/umatare5/everlasting-hey-yo-http/blob/master/LICENSE
 
-A simple CLI to generate a token for the Authorization Header from a username and password.
+A simple CLI to generate a token for the Authorization header from a username and password.
+
+"bakenize" is short for "basic-auth-tokenizer".
 
 ## Installation
 
